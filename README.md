@@ -1,5 +1,5 @@
 # Terraform + Terragrunt Workshop
-Foked from [@[ni](https://github.com/Nicodemos305)](https://github.com/Nicodemos305). Valeu cara!
+Foked from [ni](https://github.com/Nicodemos305). Valeu cara!
 
 ## V0: Terraform básico
 * terraform init
