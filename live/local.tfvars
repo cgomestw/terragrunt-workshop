@@ -1,4 +1,0 @@
-name = "sysadminas"
-creator = "lobinha"
-
-
